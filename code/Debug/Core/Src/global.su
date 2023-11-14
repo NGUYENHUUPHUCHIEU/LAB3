@@ -1,0 +1,2 @@
+global.c:14:7:clearLED	8	static
+global.c:22:7:blinkingLED	8	static
